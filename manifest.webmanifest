@@ -1,1 +1,1 @@
-{"name": "Nueva York 2026 · Domingo y María", "short_name": "NY 2026", "start_url": "./", "display": "standalone", "background_color": "#eef4f8", "theme_color": "#0b3a62", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
+{"name": "New York Private Journey", "short_name": "NY Premium", "start_url": "./", "display": "standalone", "theme_color": "#071f35", "background_color": "#f4f1eb", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
